@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello this is my study repository📖
 
+[![ErickMafraStats](https://github-readme-stats.vercel.app/api?username=Erick-Mafra-Edu&theme=transparent)](https://darkeclipse.com.br)
 <!--
-**Erick-Mafra-Edu/Erick-Mafra-Edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Svg dos ultimos estudos farei depois
+[![ErickMafstudys]()]
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Mafra-Edu&layout=compact&theme=transparent)](https://github.com/Erick-Mafra/)
+
+## Contacts and Social Media
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-mafra-3726a4257/)
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.8315728@edu.univali.br)
