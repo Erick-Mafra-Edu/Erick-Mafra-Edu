@@ -7,10 +7,10 @@ Aqui são armazenados códigos de cursos, tutoriais, projetos de *bootcamps* e t
 
 ## 🎯 Foco de Estudo
 
-* **[span_10](start_span)Ciência da Computação (Univali):** Acompanhamento e projetos acadêmicos[span_10](end_span).
-* **[span_11](start_span)Backend:** Aprofundamento em PHP, Node.js e Python[span_11](end_span).
-* **[span_12](start_span)Infraestrutura:** Prática em Azure, Docker e ferramentas de monitoramento (Grafana, Zabbix)[span_12](end_span).
-* **[span_13](start_span)Arquitetura:** Estudo de implementação de Cache e Filas[span_13](end_span).
+* Ciência da Computação (Univali):** Acompanhamento e projetos acadêmicos.
+* Backend:** Aprofundamento em PHP, Node.js e Python.
+* Infraestrutura:** Prática em Azure, Docker e ferramentas de monitoramento (Grafana, Zabbix).
+* Arquitetura:** Estudo de implementação de Cache e Filas.
 
 ---
 
