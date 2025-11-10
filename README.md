@@ -1,7 +1,6 @@
 # 📚 Erick Marlon Mafra | Repositório de Estudos e Formação
 
 [![Top Langs](username=Erick-Mafra-Edu&layout=compact&theme=transparent)](https://github.com/Erick-Mafra/)
-[![ErickMafraStats](https://github-readme-stats.vercel.app/api?username=Erick-Mafra-Edu&theme=transparent)](https://darkeclipse.com.br)
 Este é o meu espaço dedicado ao **aprendizado contínuo** e à **construção de uma base técnica sólida** para minha carreira como Desenvolvedor/DevOps.
 
 Aqui são armazenados códigos de cursos, tutoriais, projetos de *bootcamps* e testes de novas tecnologias.
