@@ -25,7 +25,7 @@ Aqui são armazenados códigos de cursos, tutoriais, projetos de *bootcamps* e t
 * **Infrastructure**: Azure, Docker
 * **Monitoring**: Grafana, Zabbix
 * **Architecture**: Cache & Message Queues (Filas)
-* **Shell**: [Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=erick-mafra-edu&layout=compact&hide_border=true&theme=transparent)
+
 
 <br>
 
@@ -41,6 +41,8 @@ Aqui são armazenados códigos de cursos, tutoriais, projetos de *bootcamps* e t
 **🎨 THEME_COLORS**
 <hr>
 🔴 🟢 🟡 🔵 🟣 ⚫ ⚪
+<br><br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erick-mafra-edu&layout=compact&hide_border=true&theme=transparent" alt="GitHub Top Langs" width="100%">
 
 </td>
 </tr>
