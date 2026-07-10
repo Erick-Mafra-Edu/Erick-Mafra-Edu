@@ -42,7 +42,7 @@ Aqui são armazenados códigos de cursos, tutoriais, projetos de *bootcamps* e t
 <hr>
 🔴 🟢 🟡 🔵 🟣 ⚫ ⚪
 <br><br>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erick-mafra-edu&layout=compact&hide_border=true&theme=transparent" alt="GitHub Top Langs" width="100%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erick-mafra-edu&layout=compact&hide_border=true&theme=transparent" alt="GitHub Top Langs" width="50%">
 
 </td>
 </tr>
