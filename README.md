@@ -25,7 +25,7 @@ Aqui são armazenados códigos de cursos, tutoriais, projetos de *bootcamps* e t
 * **Infrastructure**: Azure, Docker
 * **Monitoring**: Grafana, Zabbix
 * **Architecture**: Cache & Message Queues (Filas)
-* **Shell**: [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Mafra-Edu&layout=compact&theme=transparent)
+* **Shell**: [Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=erick-mafra-edu&layout=compact&hide_border=true&theme=transparent)
 
 <br>
 
